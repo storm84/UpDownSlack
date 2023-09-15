@@ -1,2 +1,2 @@
 # UpDownSlack
-App checking if an endpoint is up, down or slow and post the result to a slack channel.
+App that check if a number of endpoints are up, down or slow and post the result to a slack channel.
